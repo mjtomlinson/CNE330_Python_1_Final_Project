@@ -1,0 +1,13 @@
+The Famous Butterfly Dream
+
+    adjective = input('enter adjective : ')
+    color = input('enter a color name : ')
+    thing = input('enter a thing name :')
+    place = input('enter a place name : ')
+    person= input('enter a person name : ')
+    adjective = input('enter a adjective : ')
+    insect= input('enter a insect name : ')
+    food = input('enter a food name : ')
+    verb = input('enter a verb name : ')
+
+    print('Last night I dreamed I was a ' +adjective+ ' butterfly with ' + color+ ' splotches that looked like '+thing+ ' .I flew to ' + place+ ' with my best friend and '+person+ ' who was a '+adjective+ ' ' +insect +' .We ate some ' +food+ ' when we got there and then decided to '+verb+ ' and the dream ended when I said-- lets ' +verb+ '.')
